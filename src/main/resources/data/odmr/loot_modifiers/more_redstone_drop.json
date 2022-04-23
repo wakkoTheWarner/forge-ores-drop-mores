@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:redstone_ore"
+    }
+  ],
+  "addition": "minecraft:redstone",
+  "type": "odmr:more_redstone_drop"
+}

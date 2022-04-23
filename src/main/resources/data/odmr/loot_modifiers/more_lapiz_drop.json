@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:lapis_ore"
+    }
+  ],
+  "addition": "minecraft:lapis_lazuli",
+  "type": "odmr:more_lapiz_drop"
+}

@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:deepslate_redstone_ore"
+    }
+  ],
+  "addition": "minecraft:redstone",
+  "type": "odmr:more_deepredstone_drop"
+}

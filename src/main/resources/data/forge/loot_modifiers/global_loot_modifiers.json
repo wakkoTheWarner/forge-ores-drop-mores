@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "entries": [
+    "odmr:more_coal_drop",
+    "odmr:more_deepcoal_drop",
+    "odmr:more_iron_drop",
+    "odmr:more_deepiron_drop",
+    "odmr:more_gold_drop",
+    "odmr:more_deepgold_drop",
+    "odmr:more_diamond_drop",
+    "odmr:more_deepdiamond_drop",
+    "odmr:more_emerald_drop",
+    "odmr:more_deepemerald_drop",
+    "odmr:more_lapiz_drop",
+    "odmr:more_deeplapiz_drop",
+    "odmr:more_copper_drop",
+    "odmr:more_deepcopper_drop",
+    "odmr:more_redstone_drop",
+    "odmr:more_deepredstone_drop",
+    "odmr:more_quartz_drop",
+    "odmr:more_ngold_drop",
+    "odmr:more_ancientdebris_drop"
+  ]
+}

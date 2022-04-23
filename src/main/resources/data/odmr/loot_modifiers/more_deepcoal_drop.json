@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:deepslate_coal_ore"
+    }
+  ],
+  "addition": "minecraft:coal",
+  "type": "odmr:more_deepcoal_drop"
+}

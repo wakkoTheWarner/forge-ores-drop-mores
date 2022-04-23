@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:emerald_ore"
+    }
+  ],
+  "addition": "minecraft:emerald",
+  "type": "odmr:more_emerald_drop"
+}
