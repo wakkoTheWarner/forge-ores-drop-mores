@@ -52,9 +52,7 @@ public class ModEventBusEvents {
                 new moreDropsFromOres.Serializer().setRegistryName
                         (new ResourceLocation(OdmrMod.MOD_ID,"more_quartz_drop")),
                 new moreDropsFromOres.Serializer().setRegistryName
-                        (new ResourceLocation(OdmrMod.MOD_ID,"more_ngold_drop")),
-                new ancientDebrisShardFromAcientDebris.Serializer().setRegistryName
-                        (new ResourceLocation(OdmrMod.MOD_ID, "more_ancientdebris_drop"))
+                        (new ResourceLocation(OdmrMod.MOD_ID,"more_ngold_drop"))
         );
     }
 }
